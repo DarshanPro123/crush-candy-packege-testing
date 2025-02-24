@@ -1,0 +1,26 @@
+{
+  "name": "rare-candy",
+  "version": "1.0.0",
+  "description": "npm packege for testing that for making new packeges",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarshanPro123/crush-candy-packege-testing.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Darshan",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/DarshanPro123/crush-candy-packege-testing/issues"
+  },
+  "homepage": "https://github.com/DarshanPro123/crush-candy-packege-testing#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
