@@ -14,8 +14,10 @@ npm install crush-candy
 
 ## Here's an example of how to use the crush-candy package for currency conversion:
 
+```sh
 import { convertCurrency } from "rare-candy";
 
 convertCurrency("INR", "USD", 1).then((result) => {
 console.log(result);
 });
+```
